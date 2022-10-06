@@ -10,7 +10,7 @@ The dataset has been cleaned and contents of the status of cases have been disag
 
 The analysis and conclusions derived from this dataset have informed reporting by Reem Khurshid on the article ‘[Acts of omission: How Pakistan fails to address impunity for enforced disappearances](http://www.gawah.org/acts-of-omission/)’ published by Gawah in October 2022. 
 
-The article was published as part of her dissertation project for MSc Computational and Data Journalism (2021-22) at Cardiff University.
+The article was published as part of her dissertation project for [MSc Computational and Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc) (2021-22) at Cardiff University.
 
 [Gawah](https://www.gawah.org/) is an initiative by a collective of concerned citizens, including journalists, lawyers and human rights defenders, who aim to:
 
